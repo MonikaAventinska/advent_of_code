@@ -26,6 +26,7 @@ treti = seznam.pop(0)
 soucet1 = prve + druhe + treti
 
 chtěla jsem to vylepšit a udělala jsem totalní kravinu
+a pridala jsem dalsi kravinu
 
 while seznam:
 
