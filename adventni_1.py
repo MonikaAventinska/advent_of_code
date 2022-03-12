@@ -41,3 +41,4 @@ while seznam:
 
 print(increased)
 
+print("i am awesome")
