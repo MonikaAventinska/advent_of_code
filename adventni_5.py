@@ -39,7 +39,7 @@ for key, value in count.items():
 print(vysledek)
 """
 
-### zmena pokusna
+### zmena pokusna2
 
 vystupy = []
 count = {}
